@@ -8,3 +8,5 @@ On this mainboard can be plugged ONE of the shield :
 - RN2483A : LoraWan
 - SIM800L : GSM 2G
 - SIM7000E : GSM 4G Nb-IoT
+
+- template : base for a future new shield
